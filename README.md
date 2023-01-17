@@ -4,7 +4,7 @@
 
 # Kelas : TI.22.A.3
 
-# GAMBAR
+![lowongan](https://user-images.githubusercontent.com/115516632/213033199-aa73068e-3069-474c-831c-5eca930ddea7.png)
 
 # Penjelasan 
 
@@ -16,7 +16,7 @@ import pandas as pd digunakan untuk mengimport library pandas dan menyebutnya se
 
 from bs4 import BeautifulSoup digunakan untuk mengimport class BeautifulSoup dari package BeautifulSoup4. Class BeautifulSoup digunakan untuk mengelola dan mengolah data dari HTML atau XML. 
 
-# Gambar
+![lowongan 2](https://user-images.githubusercontent.com/115516632/213033347-d9744c26-8b84-43e3-8a87-cd09427de5bb.png)
 
 # Penjelasan 
 
@@ -27,3 +27,5 @@ Selanjutnya, kodingan mencari semua elemen HTML dengan atribut 'div' dan 'id' ya
 Setelah itu, kodingan menggunakan library pandas untuk membuat dataframe dari list yang didapat dan menyimpannya dalam variabel 'df'. Kemudian kodingan mencetak dataframe tersebut, sehingga kita dapat melihat informasi lowongan kerja yang diambil dari situs web Glints.
 
 # Output
+
+![lowongan 2](https://user-images.githubusercontent.com/115516632/213033538-995c62e8-fa2f-4c54-a9a3-e559d436e33b.png)
